@@ -6,6 +6,5 @@ Hawaii
 Macchu Picchu
 Bora Bora
 
-Taipei
 Japan
 
